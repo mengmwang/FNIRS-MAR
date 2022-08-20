@@ -1,4 +1,4 @@
-# fNIRS-Motion-Artefact
+# FNIRS-MAR
 
 ### Motion Artefact Removal in Functional Near-Infrared Spectroscopy Signals based on Robust Estimation
 
