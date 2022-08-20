@@ -26,3 +26,5 @@ This repository contains the MATLAB code for the motion artefact removal algorit
 
 `TestExperimental.m` - Test the motion artefact removal algorithm using expperimental fNIRS signals and simulated artefacts
 
+
+*This is part of my PhD research. Please get in touch if you are interested to know more! 😉*
