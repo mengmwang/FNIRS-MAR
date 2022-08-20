@@ -4,7 +4,7 @@
 
 *Abstract: Functional Near-InfraRed Spectroscopy (fNIRS) has gained widespread acceptance as a non-invasive neuroimaging modality for monitoring functional brain activities. FNIRS uses light in the near infra-red spectrum (600-900 nm) to penetrate human brain tissues and estimates the oxygenation conditions based on the proportion of light absorbed. In order to get reliable results, artefacts and noise need to be separated from fNIRS physiological signals. This paper focuses on removing motion-related artefacts. A new motion artefact removal algorithm based on robust parameter estimation is proposed. Results illustrate that the proposed algorithm can outperform the state-of-art algorithms in removing motion artefacts. Moreover, the proposed algorithm is robust in estimating the parameters under different interference conditions.*
 
-- M. Wang and A. Seghouane, "Motion Artefact Removal in Functional Near-infrared Spectroscopy Signals Based on Robust Estimation," ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, United Kingdom, 2019, pp. 1145-1149. ([Full paper](https://github.com/mengmwang/fNIRS-Motion-Artefact/blob/main/Wang2019.pdf))
+- M. Wang and A. Seghouane, "Motion Artefact Removal in Functional Near-infrared Spectroscopy Signals Based on Robust Estimation," *ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Brighton, United Kingdom, 2019, pp. 1145-1149. ([Full paper](https://github.com/mengmwang/fNIRS-Motion-Artefact/blob/main/Wang2019.pdf))
 
 ### MATLAB Implementation
 
