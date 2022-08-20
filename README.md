@@ -10,7 +10,6 @@
 
 This repository contains the MATLAB code for the motion artefact removal algorithm used in functional near-infrared spectroscopy signals.
 
-
 **Data**
 
 `simulated_signal.mat` - An example of a simulated signal with simulated artefacts
